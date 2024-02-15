@@ -2,7 +2,7 @@
 
 ## Chức năng của website 
 
-[Link here](https://docs.google.com/spreadsheets/d/1ikWfs57guEWjbzHwJpoEVoKggUHY6MqnahWhZ4yRCHg/edit#gid=0)https://docs.google.com/spreadsheets/d/1ikWfs57guEWjbzHwJpoEVoKggUHY6MqnahWhZ4yRCHg/edit#gid=0)
+[Link here!](https://docs.google.com/spreadsheets/d/1ikWfs57guEWjbzHwJpoEVoKggUHY6MqnahWhZ4yRCHg/edit#gid=0)
 
 
 ## Cơ sở dữ liệu
